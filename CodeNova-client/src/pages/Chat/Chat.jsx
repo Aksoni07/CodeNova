@@ -92,7 +92,7 @@ const Chat = () => {
   return (
     <div className="chat-box">
       <Helmet>
-        <title>CodeClash | Chat</title>
+        <title>CodeNova | Chat</title>
       </Helmet>
       <div className="chatName">
         <ChatName />

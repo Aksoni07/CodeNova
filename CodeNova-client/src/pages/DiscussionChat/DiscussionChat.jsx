@@ -1,7 +1,7 @@
 import { React, useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router';
 import { Link } from 'react-router-dom';
-import { MdArrowBackIos } from 'react-icons/md ';
+import { MdArrowBackIos } from "react-icons/md";
 import { BiUpvote, BiDownvote, BiComment } from 'react-icons/bi';
 import { BsThreeDotsVertical, BsShare, BsBookmark } from 'react-icons/bs';
 import { GoReport } from 'react-icons/go';
@@ -176,7 +176,7 @@ const DiscussionChat = () => {
   return (
     <div className="discussion-chat">
       <Helmet>
-        <title>CodeClash | Discussion Chat</title>
+        <title>CodeNova | Discussion Chat</title>
       </Helmet>
       <div className="back-button" onClick={back}>
         <MdArrowBackIos />

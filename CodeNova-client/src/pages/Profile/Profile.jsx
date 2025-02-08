@@ -90,7 +90,7 @@ const Me = () => {
   return (
     <div className="profile">
       <Helmet>
-        <title>CodeClash | Profile</title>
+        <title>CodeNova | Profile</title>
       </Helmet>
       <div className="profile-content">
         <div className="profile-pic">

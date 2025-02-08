@@ -58,7 +58,7 @@ const Header = () => {
     <div className="header">
       <div className="header-main">
         <Link to="/" className="logo">
-          {'CodeClash'}
+          {'CodeNova'}
         </Link>
         <Menu />
         <Link

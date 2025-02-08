@@ -72,10 +72,10 @@ const Login = () => {
   return (
     <div className="login-container">
       <Helmet>
-        <title>CodeClash | Login</title>
+        <title>CodeNova | Login</title>
       </Helmet>
       <div className="login">
-        <h2>CodeClash</h2>
+        <h2>CodeNova</h2>
         <h3 className="login-welcome">Welcome Back</h3>
         <div className="login-input">
           <input

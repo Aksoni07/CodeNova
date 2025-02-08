@@ -115,7 +115,7 @@ const Home = () => {
     <div className="home">
       <div className="another">
         <Helmet>
-          <title>CodeClash | Home</title>
+          <title>CodeNova | Home</title>
         </Helmet>
         <h1>Community Page --</h1>
         <div className="discussion-question">

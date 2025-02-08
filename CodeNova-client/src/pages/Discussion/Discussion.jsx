@@ -101,7 +101,7 @@ const Discussion = () => {
   return (
     <div className="discussion-page">
       <Helmet>
-        <title>CodeClash | Discussion</title>
+        <title>CodeNova | Discussion</title>
       </Helmet>
       <div className="discussion-Ask">
         <div className="discussion-question">

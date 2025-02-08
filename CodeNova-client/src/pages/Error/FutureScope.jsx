@@ -14,7 +14,7 @@ const Error = () => {
   return (
     <div className="error">
       <Helmet>
-        <title>CodeClash | Contest</title>
+        <title>CodeNova | Contest</title>
       </Helmet>
       <h1>the Feature will be implemented soon !!</h1>
       <div className="btn-cta-blue" onClick={back}>

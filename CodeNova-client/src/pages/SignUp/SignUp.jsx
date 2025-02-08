@@ -107,10 +107,10 @@ const SignUp = () => {
   return (
     <div className="signup">
       <Helmet>
-        <title>CodeClash | Social</title>
+        <title>CodeNova | Social</title>
       </Helmet>
       <div className="signup-container">
-        <h2>CodeClash</h2>
+        <h2>CodeNova</h2>
         <h3>Welcome</h3>
         <div className="signup-input">
           <input

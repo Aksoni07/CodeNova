@@ -14,7 +14,7 @@ const Error = () => {
   return (
     <div className="error">
       <Helmet>
-        <title>CodeClash | Error</title>
+        <title>CodeNova | Error</title>
       </Helmet>
       <h1>Error 404 page not found</h1>
       <div className="btn-cta-blue" onClick={back}>
