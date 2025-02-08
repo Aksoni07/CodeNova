@@ -8,8 +8,8 @@ module.exports = async (email, subject, text) => {
       port: Number(process.env.EMAIL_PORT), //465 , ssl , tls
       secure: Boolean(process.env.SECURE), //true
       auth: {
-        user: process.env.USER, //our email@gmail.com
-        pass: process.env.PASS, //our email-password
+        user: process.env.USER, //our email at gmail.com
+        pass: process.env.PASS, //our emailpassword
       },
     });
     await transporter.sendMail({
