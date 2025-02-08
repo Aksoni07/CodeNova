@@ -10,3 +10,5 @@ class AppError {
 }
 
 module.exports = AppError;
+
+//file defines a custom error-handling class, AppError, which extends the built-in JavaScript
