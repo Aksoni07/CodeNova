@@ -1,4 +1,6 @@
-class APIFeatures {
+//filtering, sorting, selecting specific fields, and paginating database query results
+//in MongoDB (Mongoose)
+  class APIFeatures {
   constructor(query, queryString) {
     this.query = query;
     this.queryString = queryString;
