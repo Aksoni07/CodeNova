@@ -68,5 +68,3 @@ We welcome contributions from the community. If you have an idea for a new featu
 ```
 git clone https://github.com/<YOUR_USERNAME>/CodeNova.git
 ```
-
-design doc: https://docs.google.com/document/d/1bIziAhJ--MmQvk-q4XGUiM60fk02oVK07Qhbqn9xFbw/edit?usp=sharing
